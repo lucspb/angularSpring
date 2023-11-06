@@ -1,0 +1,8 @@
+package com.github.lucspb.vendas;
+
+import org.springframework.context.annotation.Configuration;
+
+@MinhaConfiguration
+public class Configuration {
+
+}

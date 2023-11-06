@@ -1,0 +1,5 @@
+package com.github.lucspb.vendas;
+
+public class Configuration {
+
+}
